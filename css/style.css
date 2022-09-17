@@ -1,0 +1,155 @@
+body {
+    margin: 0%;
+    
+    text-align: center;
+    
+    background-color: #0c565e;
+}
+
+.top {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+}
+
+.middle{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: black;
+}
+
+.bottom {
+    background-color: pink;
+    font-family: 'Roboto Slab', serif;
+    font-size: x-large;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    color: #0c565e;
+}
+
+a.link {
+    color: blue;
+    text-decoration: none;
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: lightblue;
+}
+
+hr {
+    border: 1px solid pink;
+    width: 70%;
+}
+
+hr.tophr {
+    border: 3px solid pink;
+    border-radius: 5px;
+    width: 80%;
+}
+
+.headshot {
+    border-radius: 500%;
+}
+
+.row {
+    background-color: #68c5df;;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 5px solid;
+    padding: 10px;
+}
+
+.column {
+    display: inline-block;
+}
+
+.left {
+    float: left;
+    width: 35%;
+}
+
+.right {
+    width: 65%;
+}
+
+img.computer {
+    width: 120px;
+    padding-left: 10px;
+    padding-right: 70px;
+}
+
+img.intellij { 
+    padding-top: 10px;
+    width: 50%;
+
+}
+
+a.publix {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color:white;
+}
+
+.info {
+    padding: auto;
+    display: inline-block;
+}
+
+hr.divider {
+    border: 1px dashed black;
+}
+
+img.cloud {
+    position: absolute;
+    padding-left: 300px;
+}
+
+p {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+img.publix {
+    width: 130px;
+}
+
+dt {
+    display: inline-block;
+}
+
+dd {
+    text-align: right;
+    margin: 0;
+    display: inline-block;
+}
+
+dl {
+    text-align: left;
+    padding-left: 30px;
+}
+
+hr.bottomhr {
+    border: 5px solid white;
+    margin: 0px;
+    width: 100%;
+}
+
+.contact {
+    background-color: lightblue;
+    margin: 30%;
+    margin-top: 5%;
+    border: 3px solid #0c565e;
+}
+
+.input {
+    border: dashed;
+}
